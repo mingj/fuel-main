@@ -134,10 +134,10 @@ NAILGUN_COMMIT?=stable/5.1
 ASTUTE_COMMIT?=stable/5.1
 OSTF_COMMIT?=stable/5.1
 
-FUELLIB_REPO?=https://github.com/stackforge/fuel-library.git
-NAILGUN_REPO?=https://github.com/stackforge/fuel-web.git
-ASTUTE_REPO?=https://github.com/stackforge/fuel-astute.git
-OSTF_REPO?=https://github.com/stackforge/fuel-ostf.git
+FUELLIB_REPO?=http://192.168.3.99/fuel5.1/mingj/fuel-library.git
+NAILGUN_REPO?=http://192.168.3.99/fuel5.1/mingj/fuel-web.git
+ASTUTE_REPO?=http://192.168.3.99/fuel5.1/mingj/fuel-astute.git
+OSTF_REPO?=http://192.168.3.99/fuel5.1/mingj/fuel-ostf.git
 
 # Gerrit URLs and commits
 FUELLIB_GERRIT_URL?=https://review.openstack.org/stackforge/fuel-library
